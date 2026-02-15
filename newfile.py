@@ -1,7 +1,5 @@
 print("AI Project - Water Jug Problem")
 print("Student: arefeh-j")
-print("=" * 40)
-
 # Simple representation
 states = []
 
@@ -24,7 +22,6 @@ print("\nSolution found by BFS:")
 print("Path: (0,0) -> (0,3) -> (3,0) -> (3,3) -> (4,2) -> (0,2) -> (2,0)")
 
 print("\nAlgorithm Results:")
-print("-" * 40)
 print("BFS:       Path Cost=6, Nodes Expanded=15")
 print("DFS:       Path Cost=6, Nodes Expanded=10")
 print("IDS:       Path Cost=6, Nodes Expanded=42")
