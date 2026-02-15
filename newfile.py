@@ -1,4 +1,5 @@
 print("AI Project - Water Jug Problem")
+print("Student: arefeh-j")
 print("=" * 40)
 
 # Simple representation
